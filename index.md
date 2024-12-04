@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+title: "title"
+date: 2024-12-04
 ---
 _this is some text_
 
